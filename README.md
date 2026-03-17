@@ -46,6 +46,16 @@ Este projeto utiliza **Machine Learning** para prever a presença de doenças ca
 
 ---
 
+## 📸 Visualização do Pipeline
+
+![Pipeline Completo](images/pipeline-completo.png)
+   
+![Resultados e Métricas](images/resultados-metricas.png)
+   
+![Dataset Final](images/dataset-final.png)
+
+---
+   
 ## 🔄 Pipeline de ML
 
 1. ✅ Carregamento dos dados
